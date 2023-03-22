@@ -1,0 +1,47 @@
+AL-Ghamdi and Abdullah Saad AL-Malaise, “A Survey on Software 
+Security Testing Techniques,” proceedings of ijcst conference, 2016. 
+
+AL-Ghamdi and Abdullah Saad AL-Malaise, “A Survey on Software 
+Security Testing Techniques,” proceedings of ijcst conference, 2016. 
+
+Shah. Sugandh. & B.M. Mehtre, “A Modern Approach to CyberSecurity 
+Analysis Using Vulnerability Assessment and Penetration Testing,” 
+Proceedings of 2013 NCRTCST, Hyderabad (A.P), India, 2014.
+
+Buja, G., Bin AbdJalil, K., BtHjMohd Ali, F.; Rahman, T.F.A., 
+“Detection model for SQL injection attack: An approach for preventing 
+a web application from the SQL injection attack,” proceedings of 2014 
+IEEE Symposium on Computer Applications and Industrial Electronics 
+(ISCAIE).
+
+Buja, G., Bin AbdJalil, K., BtHjMohd Ali, F.; Rahman, T.F.A., 
+“Detection model for SQL injection attack: An approach for preventing 
+a web application from the SQL injection attack,” proceedings of 2014 
+IEEE Symposium on Computer Applications and Industrial Electronics 
+(ISCAIE).
+
+PortSwigger. (n.d.). Burp Suite, 2018, Information available from: 
+<https://portswigger.net/burp/> accessed at 09:50 hrs on 17-01-2019.
+
+PortSwigger. (n.d.). Burp Suite, 2022, Information available from: 
+<https://portswigger.net/burp/documentation/scanner> accessed at 01:10 hrs on 03-04-2022.
+
+PortSwigger. (n.d.). Burp Suite, 2022, Information available from: 
+<https://portswigger.net/burp/documentation/scanner/crawling> accessed at 01:12 hrs on 03-04-2022.
+
+PortSwigger. (n.d.). Burp Suite, 2022, Information available from: 
+<https://portswigger.net/burp/documentation/scanner/auditing> accessed at 01:15 hrs on 03-04-2022.
+
+PortSwigger. (n.d.). Burp Suite, 2022, Information available from: 
+<https://portswigger.net/burp/documentation/desktop/tools/repeater/using> accessed at 05:13 hrs on 03-04-2022.
+
+PortSwigger. (n.d.). Burp Suite, 2022, Information available from: 
+<https://portswigger.net/burp/documentation/desktop/tools/repeater/getting-started> accessed at 05:13 hrs on 03-04-2022.
+
+PortSwigger. (n.d.). Burp Suite, 2022, Information available from: 
+<https://portswigger.net/burp/documentation/desktop/tools/sequencer> accessed at 05:07 hrs on 03-04-2022.
+
+PortSwigger. (n.d.). Burp Suite, 2022, Information available from: 
+<https://portswigger.net/blog/introducing-burp-sequencer> accessed at 05:13 hrs on 03-04-2022.
+
+
